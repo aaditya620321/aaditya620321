@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aaditya Raj Pandey</h1>
-<h3 align="center">A Passionate Developer From India</h3>
+![logo](https://github.com/aaditya620321/aaditya620321/blob/main/Screenshot%202024-07-13%20095713.png)
+
 
 <img align= "right" alt = "coding" width= "400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmMTd4eHh1NncxaXQ1NDBpZGFyaWo3dzIzaTkyb2s1YnBjeHRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif">
 
