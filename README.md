@@ -49,6 +49,5 @@
 <br>
 <br>
 <br>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya620321&" alt="aaditya620321" /></p>
 
