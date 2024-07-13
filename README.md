@@ -39,6 +39,7 @@
 <br>
 <br>
 <br>
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aaditya620321&show_icons=true&locale=en" alt="aaditya620321" /></p>
 <br> <!-- This adds a line break between the two images -->
 <br>
