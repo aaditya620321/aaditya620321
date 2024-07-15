@@ -32,7 +32,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya620321&show_icons=true&locale=en&layout=compact" alt="aaditya620321" /></p>
 
-<br> <!-- This adds a line break between the two images -->
+<br> 
 
 <br>
 <br>
@@ -41,7 +41,7 @@
 <br>
 <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aaditya620321&show_icons=true&locale=en" alt="aaditya620321" /></p>
-<br> <!-- This adds a line break between the two images -->
+<br> 
 <br>
 <br>
 <br>
