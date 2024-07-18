@@ -1,7 +1,15 @@
 ![logo](https://github.com/aaditya620321/aaditya620321/blob/main/Screenshot%202024-07-13%20095713.png)
-
 # 💫 About Me
-<h3>I'm Currently Working On a ChatBot </h3>
+<div style="display: flex; align-items: center;">
+    <h3 style="margin-right: 10px;">I'm Currently Working On a ChatBot</h3>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt4MmxwNnpmb2J1d25oMHV2emNsOG5kd2pwdXE3Mjd4N2pxb3VuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S60CrN9iMxFlyp7uM8/giphy.gif" width="120" height="150" />
+</div>
+<br>
+
+<br>
+
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aadityapandey3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vengeance.aadiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-raj-pandey-865288244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/communal_raj) 
