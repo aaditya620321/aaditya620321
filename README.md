@@ -22,8 +22,10 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaditya620321&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img align="right" alt="coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmMTd4eHh1NncxaXQ1NDBpZGFyaWo3dzIzaTkyb2s1YnBjeHRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif">
+<div style="display: flex; align-items: center;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=aaditya620321&limit=5&theme=dark&combine_all_yearly_contributions=true" style="height: auto; width: auto;"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmMTd4eHh1NncxaXQ1NDBpZGFyaWo3dzIzaTkyb2s1YnBjeHRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" style="height: auto; width: auto;"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aaditya620321&icon=7&color=7)](https://visitcount.itsvg.in)
