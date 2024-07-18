@@ -23,8 +23,8 @@
 
 ### 🔝 Top Contributed Repo
 <div style="display: flex; align-items: center;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=aaditya620321&limit=5&theme=dark&combine_all_yearly_contributions=true" style="flex: 1;"/>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmMTd4eHh1NncxaXQ1NDBpZGFyaWo3dzIzaTkyb2s1YnBjeHRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" style="flex: 1;"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=aaditya620321&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="250" style="flex: 1;"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmMTd4eHh1NncxaXQ1NDBpZGFyaWo3dzIzaTkyb2s1YnBjeHRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="400" height="250" style="flex: 1;"/>
 </div>
 
 ---
