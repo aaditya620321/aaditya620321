@@ -3,7 +3,6 @@
 
 # 💫 About Me
 <h3 style="margin-right: 10px;">I'm Currently Working On a ChatBot</h3>
-<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aadityapandey3)
