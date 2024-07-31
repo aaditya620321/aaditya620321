@@ -1,5 +1,5 @@
 ![logo](https://github.com/aaditya620321/aaditya620321/blob/main/Screenshot%202024-07-13%20095713.png)
-<div align="center">
+
 
 # 💫 About Me
 <h3 style="margin-right: 10px;">I'm Currently Working On a ChatBot</h3>
@@ -39,7 +39,7 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=aaditya620321&icon=7&color=7" />
   </a>
-</div>
+
 
 </div>
 
