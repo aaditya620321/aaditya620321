@@ -4,7 +4,7 @@
 # 💫 About Me
 <h3 style="margin-right: 10px;">I'm Currently Working On a ChatBot</h3>
 
-## 🌐 Socials   
+## 🌐 Socials    
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aadityapandey3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vengeance.aadiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-raj-pandey-865288244)
