@@ -1,7 +1,7 @@
 ![logo](https://github.com/aaditya620321/aaditya620321/blob/main/Screenshot%202024-07-13%20095713.png)
 
 
-# 💫 About Me.
+# 💫 About Me
 <h3 style="margin-right: 10px;"> I'm Currently Working On a Jarvis- A Desktop Assistant</h3>
 
 ## 🌐 Socials    
