@@ -1,6 +1,7 @@
-<p align="center"> 
+<!--<p align="center"> 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Aaditya Banner" />
 </p>
+-->
 
 # Hi there, I'm Aaditya 👋  
 Data Science & AI Enthusiast | Full-Stack Developer | ML Explorer  
