@@ -4,21 +4,25 @@
 -->
 
 # Hi there, I'm Aaditya 👋  
-Data Science & AI Enthusiast | Full-Stack Developer | ML Explorer  
+Data Science & AI Enthusiast | Data Scientist | ML Explorer  
 
 ---
 
 ## 🚀 About Me -
 
-I'm a Data Science & AI enthusiast passionate about building intelligent systems and real-world ML applications.  
+I am currently working as a **Data Scientist at JP Morgan**, where I build scalable machine learning solutions and data-driven systems to solve complex business problems. My work focuses on advanced analytics, model optimization, and deploying production-ready ML applications that deliver measurable impact.
 
-I love turning raw data into meaningful insights and building systems that actually solve problems.
+In addition to my industry role, I serve as an **AI Trainer at Meritshot**, mentoring aspiring professionals in Machine Learning, AI systems, NLP, and real-world project implementation. I am passionate about simplifying complex AI concepts and enabling others to build practical, industry-ready solutions.
 
-- 🔭 Currently building **Jarvis – A Desktop AI Assistant**
-- 🌱 Learning **Advanced Machine Learning & Deep Learning**
-- 🤖 Exploring **Agentic AI & LLM Applications**
-- 📊 Working on **Data Analytics & Visualization**
-- ☁️ Exploring **Cloud & DevOps Fundamentals**
+I specialize in:
+
+- 💼 Data Science & Business Analytics  
+- 🤖 Machine Learning, NLP & LLM Applications  
+- 📊 Data Visualization & Insight Generation  
+- ☁️ Cloud, MLOps & Scalable AI Deployment  
+- 🚀 Intelligent Automation & AI System Design  
+
+I enjoy transforming raw data into strategic insights and building intelligent systems that create real-world value.
 
 ---
 
