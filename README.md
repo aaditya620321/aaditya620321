@@ -16,9 +16,9 @@ In addition to my industry role, I serve as an **AI Trainer at Meritshot**, ment
 
 I specialize in:
 
-- 💼 Data Science & Business Analytics  
-- 🤖 Machine Learning, NLP & LLM Applications  
+- 💼 Data Science & Business Analytics
 - 📊 Data Visualization & Insight Generation  
+- 🤖 Machine Learning, NLP & LLM Applications  
 - ☁️ Cloud, MLOps & Scalable AI Deployment  
 - 🚀 Intelligent Automation & AI System Design  
 
