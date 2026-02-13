@@ -26,9 +26,8 @@ I enjoy transforming raw data into strategic insights and building intelligent s
 
 ---
 
-## 🛠 Tech Stack -
+## 🛠 Tech Stack 
 
----
 
 ### 👨‍💻 Programming & Core Languages
 <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
@@ -96,17 +95,38 @@ I enjoy transforming raw data into strategic insights and building intelligent s
   - Experience handling PRs, debugging & optimization
 
 ---
-
 ## 🚀 Projects -
 
-- 🤖 **Jarvis – AI Desktop Assistant**  
-  A voice-controlled desktop assistant built using Python & ML integrations.
+- 🚗 **Distracted Driver Detection (Computer Vision | OpenCV | CNN)**  
+  Built a real-time driver monitoring system using OpenCV & Deep Learning to detect distracted driving behaviors. Implemented CNN-based image classification to improve road safety applications.
 
-- 📊 **Data Analytics Dashboards**  
-  Built dashboards using Python, Power BI & visualization libraries.
+- 🎨 **Image Colorization using OpenCV (Deep Learning)**  
+  Developed an AI-based system to convert black & white images into colored images using OpenCV and pre-trained deep learning models.
 
-- 🧠 **Machine Learning Models**  
-  Worked on regression, classification & NLP-based projects.
+- 🧠 **Brain Tumor Detection – End-to-End ML Pipeline**  
+  Designed a medical image classification system using CNN to detect brain tumors from MRI scans with preprocessing, training, evaluation & deployment pipeline.
+
+- ❤️ **Heart Disease Prediction (ML Project)**  
+  Built classification models to predict heart disease risk using structured healthcare datasets with feature engineering and performance optimization.
+
+- 📰 **Fake News Detection (NLP | ML)**  
+  Developed a text classification model to identify fake news articles using NLP techniques, TF-IDF vectorization, and supervised learning algorithms.
+
+- 🫀 **ECG Arrhythmia Classification**  
+  Built a machine learning system to classify ECG signals for arrhythmia detection using signal preprocessing and classification models.
+
+- 📊 **HR Analytics Dashboard**  
+  Created interactive dashboards for workforce analytics using Python & BI tools for business decision support.
+
+- 🏥 **Apollo Healthcare Dashboard**  
+  Designed healthcare KPI dashboards to monitor operational performance and improve insights using data visualization techniques.
+
+- 🤖 **AI Room Booking Chatbot (IBM Watson Integration)**  
+  Developed an intelligent chatbot for automated room booking using NLP and conversational AI frameworks.
+
+- 🩺 **Diabetes Prediction – End-to-End ML Project**  
+  Implemented classification models with data preprocessing, validation, and deployment-ready structure.
+
 
 ---
 
