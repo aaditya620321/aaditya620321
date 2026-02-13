@@ -3,10 +3,12 @@
 </p>
 -->
 
-# Hi there, I'm Aaditya 👋  
-Data Science & AI Enthusiast | Data Scientist | ML Explorer  
+<h1 align="center">Hi there, I'm Aaditya 👋</h1>
 
----
+<h3 align="center">
+Data Science & AI Enthusiast | Data Scientist | ML Explorer
+</h3>
+
 
 ## 🚀 About Me -
 
