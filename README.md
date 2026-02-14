@@ -27,7 +27,7 @@ I specialize in:
 I enjoy transforming raw data into strategic insights and building intelligent systems that create real-world value.
 
 ---
-
+<!-- 
 ## 🛠 Tech Stack 
 
 
@@ -97,6 +97,43 @@ I enjoy transforming raw data into strategic insights and building intelligent s
   - Experience handling PRs, debugging & optimization
 
 ---
+-->
+---
+
+### 👨‍💻 Programming & Core Languages
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></code>
+<code><img width="45" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Large" title="Python"/></code>
+
+---
+
+### 🗄 Databases
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+<code><img width="45" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Large" title="MySQL"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+
+---
+
+### ☁️ Cloud & DevOps
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+<code><img width="45" src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Large" title="AWS"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="Google Cloud"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Azure" title="Microsoft Azure"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="Kafka" title="Apache Kafka"/></code>
+
+---
+
+### 🔧 Version Control & Collaboration
+<code><img width="45" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" title="GitHub"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" title="Jira"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
+
 ## 🚀 Projects -
 
 - 🚗 **Distracted Driver Detection (Computer Vision | OpenCV | CNN)**  
