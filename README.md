@@ -87,14 +87,17 @@ I enjoy transforming raw data into strategic insights and building intelligent s
 
 ## 💼 Experience -
 
-- **Prompt Engineering & AI Model Testing**
-  - Worked on AI image-generation prompts
-  - Built structured prompts for multiple use cases
-  - Contributed in optimizing AI outputs & evaluation
+### 🏦 Data Scientist — JP Morgan
+- Working on data-driven solutions to solve complex financial and business problems
+- Building machine learning models for predictive analytics and decision support
+- Performing large-scale data analysis, feature engineering, and model optimization
+- Developing scalable data pipelines and deploying ML solutions for production use
 
-- **Open Source Contributions**
-  - Actively contributing to ML & Full-Stack projects
-  - Experience handling PRs, debugging & optimization
+### 🎓 Data Science & AI Trainer — Freelance
+- Training students and professionals in Data Science, Machine Learning, and AI
+- Mentoring learners through hands-on projects and real-world datasets
+- Teaching Python, SQL, data visualization, and machine learning concepts
+- Helping students build industry-ready portfolios and practical AI applications
 
 ---
 
