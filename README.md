@@ -12,7 +12,7 @@ Data Science & AI Enthusiast | Data Scientist | ML Explorer
 
 ## 🚀 About Me -
 
-I am currently working as a **Data Scientist at JP Morgan**, where I build scalable machine learning solutions and data-driven systems to solve complex business problems. My work focuses on advanced analytics, model optimization, and deploying production-ready ML applications that deliver measurable impact.
+I am currently working as a **Data Scientist**, where I build scalable machine learning solutions and data-driven systems to solve complex business problems. My work focuses on advanced analytics, model optimization, and deploying production-ready ML applications that deliver measurable impact.
 
 In addition to my industry role, I serve as an **AI Trainer at Meritshot**, mentoring aspiring professionals in Machine Learning, AI systems, NLP, and real-world project implementation. I am passionate about simplifying complex AI concepts and enabling others to build practical, industry-ready solutions.
 
